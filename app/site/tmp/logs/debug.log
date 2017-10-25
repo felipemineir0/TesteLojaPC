@@ -1,0 +1,874 @@
+2015-05-05 16:51:12 Debug: 
+From: Contato <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 05 May 2015 16:51:12 +0200
+Message-ID: <5548d8e04c544d558e4704507aa2a7e8@localhost>
+Subject: Contato - PAI =?UTF-8?B?aW1vYmlsacOhcmlh?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Código do imóvel:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> </p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-05 17:03:42 Debug: 
+From: lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 05 May 2015 17:03:42 +0200
+Message-ID: <5548dbcee3984da9bbb604507aa2a7e8@localhost>
+Subject: Contato - PAI =?UTF-8?B?aW1vYmlsacOhcmlh?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (19) 28918-2912</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Código do imóvel:</strong> 18291829</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> asdasdasd</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:16:11 Debug: 
+From: Lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:16:11 +0200
+Message-ID: <5549f7fbf2ec4ca5900e0ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (45) 45450-7454</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> 9898989898</p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong> %%URL%%</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:16:53 Debug: 
+From: Lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:16:53 +0200
+Message-ID: <5549f825a89845228f2d0ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (45) 45450-7454</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> 9898989898</p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong> /pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:18:42 Debug: 
+From: Lorranne Nayara Porto Siqueira <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:18:42 +0200
+Message-ID: <5549f89266e84910a2d20ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne Nayara Porto Siqueira</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9150-7318</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> dasdasd </p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong> /pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:20:00 Debug: 
+From: Lorranne Nayara Porto Siqueira <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:20:00 +0200
+Message-ID: <5549f8e037f440e1b5370ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne Nayara Porto Siqueira</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9150-7318</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> dsadasd </p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong><a href="/pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7"> /pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7</a></p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-06-05 15:18:54 Debug: 
+From: Lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 05 Jun 2015 15:18:54 +0200
+Message-ID: <5571a1be1ba84027ae0515f07aa2a7e8@localhost>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 38777-7777</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> aqua</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> aeriueiruiaeuraeiruai</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>
+    </tr>
+</table>
+
+
+
+2015-06-05 13:02:08 Debug: 
+From: Lorranne Nayara Porto Siqueira <lorranne@aquainterativa.com.br>
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 05 Jun 2015 13:02:08 -0300
+Message-ID: <5571c8000a1044cc860c4299baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne Nayara Porto Siqueira</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9150-7318</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> usdhaushdu</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> hudhauhduashdhu</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2">
+<img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2015-06-05 13:10:11 Debug: 
+From: Lorranne Nayara Porto Siqueira <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 05 Jun 2015 13:10:11 -0300
+Message-ID: <5571c9e3213c412a82f365e8baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne Nayara Porto Siqueira</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9150-7318</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> AQUA</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> Teste de formulário</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2">
+<img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-03-03 09:49:06 Debug: 
+From: lorranne siqueira <no-reply@ynovez.com.br>
+Reply-To: lorranne_siqueira@hotmail.com
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 03 Mar 2016 09:49:06 -0300
+Message-ID: <56d832c25dfc45daad561fccbaca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> lorranne siqueira</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne_siqueira@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (28) 39283-9283</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> teste</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> teste</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2">
+<img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-03-03 09:50:31 Debug: 
+From: lorranne <no-reply@ynovez.com.br>
+Reply-To: lorranne_siqueira@hotmail.com
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 03 Mar 2016 09:50:31 -0300
+Message-ID: <56d83317620848c28c5b24dbbaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> lorranne</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne_siqueira@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (78) 7878-78787</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-03-03 10:28:14 Debug: 
+From: Gabriella <no-reply@ynovez.com.br>
+Reply-To: operacoes@aquainterativa.com.br
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 03 Mar 2016 10:28:14 -0300
+Message-ID: <56d83beeca60435cb6fd459abaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Gabriella</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> operacoes@aquainterativa.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 3821-5657</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-03-03 10:28:58 Debug: 
+From: Gabriella <no-reply@ynovez.com.br>
+Reply-To: operacoes@aquainterativa.com.br
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 03 Mar 2016 10:28:58 -0300
+Message-ID: <56d83c1a79504ddd83b147b2baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Gabriella</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> operacoes@aquainterativa.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 3821-5657</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> Indicação</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> TESTE</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2">
+<img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-03-03 13:58:56 Debug: 
+From: Gabriella <no-reply@ynovez.com.br>
+Reply-To: operacoes@aquainterativa.com.br
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 03 Mar 2016 13:58:56 -0300
+Message-ID: <56d86d502adc43789c5b5019baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Gabriella</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> operacoes@aquainterativa.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 3821-5657</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> teste</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> teste</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2">
+<img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-06-23 11:51:56 Debug: 
+From: Ana Paula Peres dos Reis <no-reply@ynovez.com.br>
+Reply-To: anapauladorinato@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 23 Jun 2016 11:51:56 -0300
+Message-ID: <576bf78c59444c4088fc4400baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Ana Paula Peres dos Reis</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> anapauladorinato@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9968-70360</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-06-23 11:54:03 Debug: 
+From: Ana Paula Peres dos Reis <no-reply@ynovez.com.br>
+Reply-To: anapauladorinato@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 23 Jun 2016 11:54:03 -0300
+Message-ID: <576bf80b8e1c491ab4414d2cbaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Ana Paula Peres dos Reis</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> anapauladorinato@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9968-70360</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-07-29 13:57:13 Debug: 
+From: Cila Santos <no-reply@ynovez.com.br>
+Reply-To: Santos.hercilia11@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 29 Jul 2016 13:57:12 -0300
+Message-ID: <579b8ae8a53c461fa8c702a1baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Cila Santos</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Santos.hercilia11@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9968-71005</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-08-12 18:54:16 Debug: 
+From: 8TaQ9ECXzm <no-reply@ynovez.com.br>
+Reply-To: ykryiirg4ze@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 12 Aug 2016 18:54:16 -0300
+Message-ID: <57ae4588a48c4333b6940602baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> 8TaQ9ECXzm</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> ykryiirg4ze@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> eG3HMGlIMf</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> PaVsoezMXqb4</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> God, I feel like I sholud be takin notes! Great work</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">
+<td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2016-09-29 12:03:59 Debug: 
+From: Ana Paula <no-reply@ynovez.com.br>
+Reply-To: anapauladorinato@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 29 Sep 2016 12:03:59 -0300
+Message-ID: <57ed2d5f1dd44f48b3c07c09baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Ana Paula </p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> anapauladorinato@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9968-70360</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-01-03 08:31:34 Debug: 
+From: Rangel Ramos <no-reply@ynovez.com.br>
+Reply-To: rhangelramos@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 03 Jan 2017 08:31:34 -0200
+Message-ID: <586b7d865504413fa92d3345baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Rangel Ramos</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> rhangelramos@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (38) 99951-4429</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> Na internet</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> Bom dia!
+
+Busco um tratamento para a região inferior dos olhos.
+Gostaria de saber como são os procedimentos, se vocês fazem por meio de preenchimento com ácido hialurônico e qual a média de valores.
+
+Grato!</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-01-06 07:25:53 Debug: 
+From: Barnypok <no-reply@ynovez.com.br>
+Reply-To: jfvynms4281rt@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 06 Jan 2017 07:25:53 -0200
+Message-ID: <586f62a17f5c4bf8a71760fcbaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Barnypok</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> jfvynms4281rt@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> 73378853854</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-01-12 01:21:36 Debug: 
+From: Gabriel <no-reply@ynovez.com.br>
+Reply-To: Gabrielmoraesceara@yahoo.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 12 Jan 2017 01:21:36 -0200
+Message-ID: <5876f64017bc44d9be47727abaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Gabriel </p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Gabrielmoraesceara@yahoo.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (48) 9980-77219</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-01-30 07:41:32 Debug: 
+From: =?UTF-8?B?SsO6bGlv?= <no-reply@ynovez.com.br>
+Reply-To: jsallesararaujo@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Mon, 30 Jan 2017 07:41:32 -0200
+Message-ID: <588f0a4cc82c406691a56973baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Júlio</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> jsallesararaujo@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9924-91752</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-02-06 11:03:32 Debug: 
+From: SORAIA AVILA <no-reply@ynovez.com.br>
+Reply-To: ducanavilla@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Mon, 06 Feb 2017 11:03:32 -0200
+Message-ID: <58987424de4048b8b22e6e80baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> SORAIA AVILA</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> ducanavilla@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9968-01974</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-02-13 11:38:20 Debug: 
+From: Uander Cesar Rodrigues <no-reply@ynovez.com.br>
+Reply-To: uanderrodrigues@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Mon, 13 Feb 2017 11:38:19 -0200
+Message-ID: <58a1b6cb50904f48a3aa70b4baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Uander Cesar Rodrigues</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> uanderrodrigues@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9992-69923</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-02-24 02:52:40 Debug: 
+From: Rafael <no-reply@ynovez.com.br>
+Reply-To: Rafaelaraujo1709@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 24 Feb 2017 02:52:40 -0300
+Message-ID: <58afca28ab80402d9d1b7f39baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Rafael</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Rafaelaraujo1709@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9920-76168</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-03-21 11:49:54 Debug: 
+From: ELIENE RAMOS <no-reply@ynovez.com.br>
+Reply-To: eliene@db.agr.br
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 21 Mar 2017 11:49:54 -0300
+Message-ID: <58d13d927cdc4d569f674cc1baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> ELIENE RAMOS</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> eliene@db.agr.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (38) 99906-2761</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> internet</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> gostaria de saber , o valor do peeling quimico e se resolve rugas ao redor dos olhos e bocas? tenho 33 anos e rugas além da minha idade e gostaria de
+tentar o peeling.
+
+att.
+Eliene</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-03-31 01:39:52 Debug: 
+From: Matheus Dias <no-reply@ynovez.com.br>
+Reply-To: mathyeushenrique@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 31 Mar 2017 01:39:51 -0300
+Message-ID: <58dddd9734344f9485503b59baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Matheus Dias</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> mathyeushenrique@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9994-49221</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-04-08 09:32:02 Debug: 
+From: Bruno <no-reply@ynovez.com.br>
+Reply-To: bruno04quintanilha@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Sat, 08 Apr 2017 09:32:02 -0300
+Message-ID: <58e8d842a6d84efbaf077992baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Bruno</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;">
+<strong>E-mail:</strong> bruno04quintanilha@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (33) 99810-7706</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> Na Internet</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> Vocês fazem sombrancelha masculina também?</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2">
+<img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-06-16 10:54:18 Debug: 
+From: Ana Paula Barbosa <no-reply@ynovez.com.br>
+Reply-To: anaikauanbarbosa@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 16 Jun 2017 10:54:18 -0300
+Message-ID: <5943e30af2b443bebc3f2670baca9902@ynovez.com.br>
+Subject: Contato - Ynovez
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">    <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Ana Paula Barbosa</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> anaikauanbarbosa@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 99826-8445</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Como conheceu:</strong> Procurando uma clínica em Patos de Minas pela internet</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> Bom dia.. estou procurando uma clínica em Patos de Minas pra fazer a cirurgia de silicone nos
+seios..</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-06-21 08:36:18 Debug: 
+From: Poliana <no-reply@ynovez.com.br>
+Reply-To: polianasousa1812.com@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 21 Jun 2017 08:36:18 -0300
+Message-ID: <594a5a3220c04a3593111273baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Poliana</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> polianasousa1812.com@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9990-85993</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-06-22 14:47:26 Debug: 
+From: Beatriz <no-reply@ynovez.com.br>
+Reply-To: byazinha65@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Thu, 22 Jun 2017 14:47:26 -0300
+Message-ID: <594c02ae39cc44c38b9f7553baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Beatriz</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> byazinha65@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9994-71206</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-07-05 00:37:32 Debug: 
+From: Solange <no-reply@ynovez.com.br>
+Reply-To: Araujo2015_@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 05 Jul 2017 00:37:31 -0300
+Message-ID: <595c5efb12a84ac98b76161dbaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Solange</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Araujo2015_@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (99) 8421-2241</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-07-24 08:01:00 Debug: 
+From: Laura Alves Magalhaes <no-reply@ynovez.com.br>
+Reply-To: sirlenealvesmagalhaes@yahoo.com.br
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Mon, 24 Jul 2017 08:00:59 -0300
+Message-ID: <5975d36b5d184a17b8561290baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Laura Alves Magalhaes</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> sirlenealvesmagalhaes@yahoo.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9966-96448</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-08-08 21:59:26 Debug: 
+From: Michelle <no-reply@ynovez.com.br>
+Reply-To: Michelle.cristinalooes@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 08 Aug 2017 21:59:25 -0300
+Message-ID: <598a5e6d8cdc458eb1994c55baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Michelle</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Michelle.cristinalooes@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (62) 9932-25690</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-08-09 13:06:38 Debug: 
+From: Thalia eduarda <no-reply@ynovez.com.br>
+Reply-To: Thaliaeduatda16@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 09 Aug 2017 13:06:37 -0300
+Message-ID: <598b330d71a84828b56420a6baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Thalia eduarda </p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Thaliaeduatda16@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (_64_) __999586972__-_____</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-08-21 18:59:03 Debug: 
+From: Deyjane <no-reply@ynovez.com.br>
+Reply-To: deyjanefsa@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Mon, 21 Aug 2017 18:59:02 -0300
+Message-ID: <599b57a678e44757abdd10d4baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Deyjane </p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> deyjanefsa@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (75) 9913-91100</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-10-02 11:34:57 Debug: 
+From: Kassia da Silva Andrade <no-reply@ynovez.com.br>
+Reply-To: Kassiaandradesilva@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Mon, 02 Oct 2017 11:34:56 -0300
+Message-ID: <59d24e90b30c4f5793ae1825baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Kassia da Silva Andrade</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Kassiaandradesilva@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9810-8977</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-10-03 01:40:55 Debug: 
+From: Crys Brasil <no-reply@ynovez.com.br>
+Reply-To: Cryscrys74@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 03 Oct 2017 01:40:54 -0300
+Message-ID: <59d314d6974847439043612dbaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Crys Brasil</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Cryscrys74@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (24) 9740-23834</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-10-03 01:40:55 Debug: 
+From: Crys Brasil <no-reply@ynovez.com.br>
+Reply-To: Cryscrys74@hotmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 03 Oct 2017 01:40:54 -0300
+Message-ID: <59d314d6d118425ea65c612cbaca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Crys Brasil</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Cryscrys74@hotmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (24) 9740-23834</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-10-06 11:46:46 Debug: 
+From: IVONE  ALVES DA SILVA <no-reply@ynovez.com.br>
+Reply-To: ivone.volks@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 06 Oct 2017 11:46:45 -0300
+Message-ID: <59d79755affc47458f1a43a2baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> IVONE  ALVES DA SILVA</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> ivone.volks@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (62) 9910-23852</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-10-14 13:10:19 Debug: 
+From: =?UTF-8?B?TMOhemFybyBkbyBOYXNjaW1lbnRvIA==?= <no-reply@ynovez.com.br>
+Reply-To: lazaronascimento22@yahoo.com.br
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Sat, 14 Oct 2017 13:10:18 -0300
+Message-ID: <59e236ea0ac4442e9e1c0312baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lázaro do Nascimento </p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lazaronascimento22@yahoo.com.br</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (75) 9914-02949</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+
+2017-10-20 11:05:52 Debug: 
+From: =?UTF-8?B?TcOhcmNpYSBDcmlzdGluYSBSaWJlaXJvIGRhIENvc3Rh?= <no-reply@ynovez.com.br>
+Reply-To: Marcia45ribeiroo@gmail.com
+To: contato@ynovez.com.br
+X-Mailer: CakePHP Email
+Date: Fri, 20 Oct 2017 11:05:51 -0200
+Message-ID: <59e9f4af204c4dec93730670baca9902@ynovez.com.br>
+Subject: Contato para =?UTF-8?B?YXZhbGlhw6fDo28gLSBZbm92ZXo=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >    <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><a href="http://ynovez.com.br"><img src="http://ynovez.com.br/site/img/topo_email.jpg" border="0"></a></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário de avaliação do site. Os dados da mensagem são:</h2></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Márcia Cristina Ribeiro da Costa</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;">
+<p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> Marcia45ribeiroo@gmail.com</p></td>    </tr>    <tr style="width:100%; margin-top:10px; display:block; float:left">        <td style="width: 17px;">&nbsp;</td>        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (21) 9734-36951</p></td>    </tr>     <tr style="width:100%; margin-top:20px; display:block; float:left">        <td colspan="2"><img src="http://ynovez.com.br/site/img/rodape_email.jpg"></td>    </tr></table>
+
+

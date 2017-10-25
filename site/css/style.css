@@ -1,0 +1,878 @@
+a:hover,
+a:active,
+a:focus {
+    text-decoration:none;
+    color: #008617;
+}
+li {
+    list-style: none;
+}
+body {
+    font-family: 'latolight';
+}
+.logo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.logo h1 {
+    display: none;
+}
+.img-responsive {
+    width: auto \9;
+}
+.foto {
+    margin: 0 auto;
+}
+.bg-branco {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(126, 255, 118);
+    border-radius: 10px;
+    width: 1170px;
+}
+.parte-cima {
+    text-align: right;
+    border-bottom: 1px solid #333;
+    margin-top: 27px;
+    padding-bottom: 15px;
+}
+.parte-cima a,
+.parte-cima span {
+    color: #9d8266;
+    font-size: 14px;
+}
+.parte-cima a {
+    margin-right: 20px;
+}
+nav > ul {
+    margin-left: 0;
+}
+nav > ul > li {    
+    float: left;
+    margin-right: 50px;
+}
+nav > ul > li:last-child {
+    margin-right: 0;
+}
+nav > ul > li > a {
+    font-size: 14px;
+    color: #4444;
+    text-transform: uppercase;
+    font-family: 'latoblack';
+}
+.servicos-home {
+    padding-bottom: 30px;
+}
+.servicos-home h3 {
+    text-transform: uppercase;
+    color: #4444;
+    font-size: 42px;
+    font-family: 'latohairline';
+    margin-bottom: 0;
+}
+.servicos-home p {
+    color: #4444;
+    font-size: 18px;
+    font-family: 'latobold_italic';
+}
+.clube-ynovez-home {
+    background: red center top no-repeat;
+}
+.clube-ynovez,
+.bloco-institucional-home {
+    margin-top: 55px;
+}
+.clube-ynovez h4,
+.bloco-institucional-home h4 {
+    font-family: 'latoblack';
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #0dd0f9;
+}
+.bloco-institucional-home img {
+    margin-bottom: 13px;
+}
+.clube-ynovez p,
+.bloco-institucional-home p {
+    color: #4444;
+    font-size: 16px;
+    margin: 0;
+}
+.bolinha {
+    float: left;
+    width: 102px;
+    height: 102px;
+    background: #FFF;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 45px;
+}
+.bolinha span.plano-home {
+    color: #b4ae9f;
+    font-size: 12px;
+    font-family: 'latobold';
+}
+.bolinha span.numero {
+    font-family: 'latohairline_italic';
+    color: #ffb709;
+    font-size: 45px;
+    line-height: 35px;
+}
+.bolinha span.dias {
+    font-family: 'latobold';
+    color: #ffb709;
+    font-size: 16px;
+}
+.botao-verde {
+    float: left;
+    background: #41c557;
+    padding: 15px;
+    color: #FFF;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-top: 25px;  
+}
+.botao-verde:hover {
+    background: #FFF;
+    border: 1px solid #41c557;
+    color: #41c557;
+}
+.botao-comprar {
+    float: right;
+    width: 240px;
+    height: 79px;
+    margin-bottom: 30px;
+    background: url('../img/comprar.png') center no-repeat;
+}
+.bg-verde {
+    background: rgb(126, 255, 118);
+    padding-top: 50px;
+}
+.menu-rodape ul li a {
+    color: #0dd0f9;
+}
+.informacoes-rodape {
+    float: right;
+    margin-top: 0;
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: right;
+}
+.informacoes-rodape a,
+.informacoes-rodape span {
+    color: #333333;
+}
+.informacoes-rodape .item {
+    float: left;
+    margin-left: 96px;
+}
+.direitos {
+    background: #111111;
+    padding: 18px 0;
+}
+.direitos p {
+    margin-bottom: 0;
+    color: #FFFfff;
+    float: left;
+}
+.direitos a {
+    float: right;
+    margin-right: 15px;
+}
+#fb-root {
+    display: none;
+}
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
+.bg-institucional {
+    background: url('../img/player/player1.jpg') center top no-repeat;
+    min-height: 350px;
+    background-size: cover;
+}
+.page-institucional {
+    background: url('../img/bg-florzinhas.png') center top no-repeat;    
+    min-height: 590px;
+    margin-top: -60px;
+    padding-top: 70px;
+}
+.page-institucional p {
+    color: #4444;
+    font-size: 14px;
+    margin-top: 25px;
+}
+h1.titulo {
+    text-transform: uppercase;
+    color: #7EFF76;
+    font-size: 40px;
+    margin: 0;
+}
+h1.titulo span {
+    font-weight: bolder;
+}
+span.subtitulo {
+    float: left;
+    width: 100%;
+    color: #7EFF76;
+    font-size: 18px;
+    font-family: 'latobold_italic';
+    margin-bottom: 30px;
+}
+.lista-itens h3 {
+    margin: 0;
+    color: #7b6c27;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'latoblack';
+}
+.lista-itens p {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.mapa {
+    float: left;
+    width:100%;
+}
+.bg-cima-branco {
+    position: absolute;
+    z-index: 10;
+}
+.bg-baixo-branco {
+    position: absolute;    
+    margin-top:-40px;
+}
+.page-clube-ynovez {
+    background: url('../img/bg-florzinhas-clube.png') center top;    
+    min-height: 1000px;
+    margin-top: -65px;
+    padding-top: 70px;
+}
+.tratamentos {
+    margin-top: 60px;
+}
+.tratamentos h3 {
+    color: #4444;
+    font-size: 16px;
+    font-family: 'latobold_italic';
+    text-transform: uppercase;
+    float: right;
+    margin: 0 0 50px 0;
+}
+.tratamentos li {
+    color: #4444;
+    font-size: 16px;
+    border-bottom: 1px solid #FFF;
+    text-align: right;
+    margin-bottom: 25px;
+    float: left;
+    width: 100%;
+}
+.plano {
+    background: #FFF;
+    border-radius: 5px;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+.plano span.max-sessoes {
+    font-size: 14px;
+    color: #b4ae9f;
+    font-family: 'latobold_italic';
+    text-transform: uppercase;
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+.planos .numero-dias {
+    color: #ffb709;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 60px;
+    line-height: 20px;
+    font-family: 'latohairline_italic';
+    float: left;
+    padding-top: 6px;
+}
+.planos .numero-dias span {
+    font-size: 16px;
+}
+.plano ul {
+    float: left;
+    width: 100%;
+    padding: 0 15px;
+}
+.plano ul li {
+    float: left;
+    width: 100%;
+    text-align: center;
+    color: #4444;
+    font-family: 'latobold_italic';
+    border-top: 1px solid #f1e9d6;
+    padding: 23px 0 5px 0;
+}
+.preco .botao-verde{
+    margin-left: 24%;
+}
+.preco  {
+    background: #FFF;
+    border-radius: 5px;
+    margin-top: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.preco p {
+    color: #b4ae9f;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'latobold';
+}
+.preco a {
+    border: 1px solid;
+    margin: 0 0 0 55px;
+}
+.detalhes-preco span.simbolo-RS {
+    color: #7b6c27;
+    font-size: 26px;
+    font-family: 'latobold_italic';
+}
+.detalhes-preco span.preco-real {
+    font-family: 'latohairline_italic';
+    font-size: 57px;
+    color: #7b6c27;
+}
+.detalhes-preco span.mensais {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: 'latobold_italic';
+    color: #cbc4b4;
+    margin-left: -50px;
+}
+.detalhes-preco p {
+    font-style: italic;
+    font-family: 'latolight';
+    font-size: 14px;
+}
+.detalhes-preco p span {
+    color: #ffb709;
+    font-family: 'latobold_italic';
+}
+.box-info-clube {
+    padding-bottom: 100px;
+}
+.como-funciona h3 {
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #7b6c27;
+}
+.como-funciona p:before {
+    float: left;
+    content: url('../img/icons/icon-check.png');
+    margin: 5px 15px 0 0;
+}
+.como-funciona p {
+    color: #4444;    
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.depoimentos h3 {
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #7b6c27;
+}
+.calcule-imc h3 {
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #7b6c27;
+}
+.calcule-imc p {
+    color: #4444;    
+    font-size: 14px;
+}
+.formCalculaIMC {
+    float: left;
+    width: 100%;
+}
+.formCalculaIMC input,
+.formCalculaIMC button {
+    float: left;
+    width: 100%;
+}
+.formCalculaIMC input {
+    background: #eee;
+    border: 0;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.formCalculaIMC button {
+    margin-top: 0;
+    border: 0;
+    border: 1px solid transparent;
+}
+.categoria-servico {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.categoria-servico h2 {
+    color: #7EFF76;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'latoblack';
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.detalhada p {
+    color: #fff;
+    font-size: 20px;
+}
+.parcela p{
+    font-size: 14px;
+}
+.detalhada p span {
+    color: #7EFF76;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Swis721_B';
+}
+.detalhada h3 {
+    color: #4444;
+    font-family: 'latobold';
+    font-size: 18px;
+}
+.detalhada ul {
+    padding-left: 0;
+}
+.detalhada ul li {
+    float: left;
+    width: 100%;
+}
+.detalhada ul li:before {
+    float: left;
+    content: url('../img/icons/icon-check.png');
+    margin: 5px 15px 0 0;
+}
+.box {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.subnome {
+    font-size: 19px !important;
+    color: #41c557;
+    width: 90%;
+    margin-left: 5%;
+}
+.subnome:hover {
+    font-weight: 600;
+    color: #41c557;
+}
+.especificacoes h3 {
+    color: #0DD0F9;
+    text-transform: uppercase;
+    margin-top: 0;
+}
+.especificacoes p {
+    color: #4444;
+    font-size: 14px;
+    margin-bottom: -5px;
+}
+.avaliacao h3 {
+    color: #7b6c27;
+    text-transform: uppercase;
+    margin-top: 0;
+}
+.formAvaliacao {
+    float: left;
+    width: 100%;
+}
+.formAvaliacao input,
+.formAvaliacao button {
+    float: left;
+    width: 100%;
+}
+.formAvaliacao input {
+    background: #eee;
+    border: 0;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.formAvaliacao button {
+    margin-top: 0;
+    border: 0;
+    border: 1px solid transparent;
+}
+.player-institucional {
+    float: left;
+    width: 100%;
+}
+.page-servicos {
+    background: #111 ;
+    /*min-height: 590px;    */
+    padding-top: 0;
+    margin-top: -10px;
+}
+.bg-cima-servico {
+    margin-top: -50px;
+}
+.page-servicos h1.titulo {
+    margin-top: 20px;
+}
+.img-view-servico{
+    margin-bottom: 100px;
+}
+.bg-outros-servicos {
+    background: #111;
+}
+.bg-outros-servicos .bg-cima-branco {  
+    margin-top: 0;
+}
+.bg-outros-servicos .botao-verde {
+    margin-bottom: 50px;
+    border:1px solid transparent;
+    margin-left: 450px;
+}
+#result_validacao {
+    margin-left: 15px;
+    color: red;
+}
+.promocao img{
+    border-radius: 50%;
+}
+
+.promocao a {
+    color: #7b6c27;
+}
+.promocao a:hover {
+    color: #fff;
+}
+@media (max-width: 480px) {  
+    /*celular vertical*/
+    .bg-cima-servico {
+        margin-top: -14px;
+    }
+    .detalhada {
+        margin-top: -110px;
+    }
+    .bx-wrapper .bx-controls-direction a {
+        margin-left: -10px !important;
+        margin-right: -10px !important;
+    }
+    .bg-branco {
+        width: 100%;
+        position: relative;
+    }
+    nav > ul {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    nav > ul > li {
+        margin-bottom: 10px;
+        margin-right: 30px;
+    }
+    .clube-ynovez-home {
+        background: url('../img/bg-florzinhas-clube.png') center top no-repeat;
+        background-size: cover;
+    }
+    .bolinha {
+        width: 85px;
+        height: 85px;
+        margin-right: 5px;
+        margin-top: 15px;
+        
+    }
+    .bolinha span.plano-home {
+        font-size: 10px;
+    }
+    .bolinha span.numero {
+        font-size: 30px;
+        line-height: 25px;
+    }
+    .bolinha span.dias {
+        font-size: 14px;
+    }
+    .newsletter {
+        border-right: none;
+    }
+    .newsletter h3 {
+        font-size: 24px;
+    }
+    .newsletter p {
+        width: 100%;
+    }
+    .news input {
+        float: left;
+        width: 100%;
+        background: #eeeeee;
+        border: none;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    .paddingLeft,
+    .paddingLeftMobile {
+        padding-left: 0;
+    }
+    .informacoes-rodape {
+        float: left;
+        width: 100%;
+        border-top: 1px solid #FFF;
+        margin-top: 10px;
+        padding-top: 20px;
+    }
+    .informacoes-rodape .item {
+        width: 100%;
+        text-align: left;
+        margin-bottom: 10px;
+        margin-left: 0px;
+    }
+    .direitos p {
+        font-size: 12px;
+        width: 70%;
+
+    }
+    .bg-baixo-branco {
+      margin-top: -10px;      
+    }
+    h1.titulo {
+        font-size: 35px;       
+    } 
+    .preco .botao-verde{
+        margin-left: 0;
+    }
+    
+}
+@media (min-width:481px) and (max-width: 767px) {  
+    /*celular horizontal*/
+    .logo img {
+        margin: 0 auto;
+    }
+    .bg-branco {
+        width: 100%;
+        position: relative;
+    }
+    nav > ul {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    nav > ul > li {
+        margin-bottom: 10px;
+        margin-right: 39px;
+    }
+    .clube-ynovez-home {
+        background: url('../img/bg-home-clube-ynovez.png') center top no-repeat;
+        background-size: cover;
+    }
+    .newsletter {
+        border-right: none;
+    }
+    .newsletter h3 {
+        font-size: 24px;
+    }
+    .newsletter p {
+        width: 100%;
+    }
+    .news input {
+        float: left;
+        width: 100%;
+        background: #eeeeee;
+        border: none;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    .paddingLeft,
+    .paddingLeftMobile {
+        padding-left: 0;
+    }
+    .informacoes-rodape {
+        float: left;
+        width: 100%;
+        border-top: 1px solid #FFF;
+        margin-top: 10px;
+        padding-top: 20px;
+    }
+    .informacoes-rodape .item {
+        width: 100%;
+        text-align: left;
+        margin-bottom: 10px;
+        margin-left: 0px;
+    }
+    .direitos p {
+        font-size: 12px;
+        width: 70%;
+
+    }
+    .bg-baixo-branco {
+      margin-top: -10px;      
+    }
+    h1.titulo {
+        font-size: 35px;       
+    }
+    .preco .botao-verde{
+        margin-left: 0;
+    }
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    /*tablet vertical*/
+    .bg-branco {
+        margin-top: 5px;
+        width: 720px;
+    }
+    nav > ul {
+        padding-left: 0;
+    }
+    nav > ul > li {    
+        margin-right: 20px;
+    }
+    .bolinha {
+        width: 90px;
+        height: 90px;
+        margin-right: 5px;
+        margin-top: 15px;
+    }
+    .bolinha span.plano-home {
+        font-size: 10px;
+    }
+    .bolinha span.numero {
+        font-size: 30px;
+        line-height: 25px;
+    }
+    .bolinha span.dias {
+        font-size: 12px;
+    }
+    .informacoes-rodape {
+        font-size: 12px;
+    }
+    .informacoes-rodape .item {
+      margin-left: 10px;
+    }
+    .bg-baixo-branco {
+      margin-top: -24px;
+    }
+    .detalhes-preco span.simbolo-RS {
+      font-size: 16px;
+    }
+    .detalhes-preco span.preco-real {
+      font-size: 40px;
+    }
+    .preco form input {
+      margin: 0 0 0 5px;
+    }
+    .tratamentos li {
+      font-size: 16px;
+    }
+    .plano ul li {
+      padding: 28px 0 5px 0;
+    }
+    .page-servicos {
+        margin-top: -20px;
+    }
+    .page-servicos .bg-cima-servico {
+        margin-top: -30px;
+    }
+    .img-view-servico {
+      margin-bottom: 30px;
+    }
+    .bg-outros-servicos .botao-verde {
+      margin-left: 250px;
+    }
+    .preco .botao-verde{
+        margin-left: 0;
+    }
+}
+@media (min-width: 979px) and (max-width: 1199px) {
+    /*tablet horizontal*/
+    .bg-branco {
+        margin-top: 5px;
+        width: 940px;
+    }
+    nav > ul {
+        padding-left: 45px;
+    }
+    nav > ul > li {    
+        margin-right: 45px;
+    }
+    .bolinha {
+        width: 90px;
+        height: 90px;
+        margin-right: 5px;
+        margin-top: 15px;
+    }
+    .bolinha span.plano-home {
+        font-size: 10px;
+    }
+    .bolinha span.numero {
+        font-size: 30px;
+        line-height: 25px;
+    }
+    .bolinha span.dias {
+        font-size: 12px;
+    }
+    .informacoes-rodape {
+        font-size: 12px;
+    }
+    .informacoes-rodape .item {
+      margin-left: 10px;
+    }
+    .bg-baixo-branco {
+      margin-top: -24px;
+      
+    } 
+    .detalhes-preco span.simbolo-RS {
+      font-size: 16px;
+    }
+    .detalhes-preco span.preco-real {
+      font-size: 40px;
+    }
+    .preco a {
+      margin: 0 0 0 5px;
+    }
+    .tratamentos li {
+      font-size: 16px;
+    } 
+    .plano ul li {
+      padding: 28px 0 5px 0;
+    }
+    .page-servicos {
+        margin-top: -20px;
+    }
+    .page-servicos .bg-cima-servico {
+        margin-top: -30px;
+    }
+    .img-view-servico {
+      margin-bottom: 30px;
+    }
+    .bg-outros-servicos .botao-verde {
+      margin-left: 350px;
+    }  
+    
+}
+@media (min-width: 1200px) { 
+    .paddingLeft {
+        padding-left: 0;
+    }
+}
+span.latoBlack {
+    font-family: 'latoblack';
+}
+span.latoBold {
+    font-family: 'latobold';
+}
+span.latoBoldItalic {
+    font-family: 'latobold_italic';
+}
+#resultado_imc {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+    
+}
+#resultado_imc span {
+    font-family: 'latobold';
+}
